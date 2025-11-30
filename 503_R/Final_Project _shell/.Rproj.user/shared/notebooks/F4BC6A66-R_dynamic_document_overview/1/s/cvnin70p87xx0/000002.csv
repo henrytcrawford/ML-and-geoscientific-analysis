@@ -1,2 +1,0 @@
-"0","pkgs_file <- here::here(""document_files"", ""packages.bib"")"
-"0","knitr::write_bib(contrib_pkgs, pkgs_file)"
